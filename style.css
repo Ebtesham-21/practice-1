@@ -1,0 +1,104 @@
+body{
+    font-family: "Oswald", sans-serif;
+    background-image: url(images/top-bg-01.png);
+    background-size: 1500px 1500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h2{
+    color:coral;
+}
+.welcome{
+    display: flex;
+    margin-bottom: 50px;
+    
+    
+    
+    
+
+}
+
+.welcome-text{
+    margin-left: 0%;
+}
+span{
+    color:coral;
+}
+.hire-me{
+    text-decoration: none;
+    color:rgb(247, 247, 247);
+    background-image: linear-gradient(cyan, blue);
+    padding: 10px;
+
+}
+.edu-text{
+    width: 50%;
+    
+}
+.Educational{
+    display: flex;
+
+}
+#para-txcolor{
+    color: rgb(253, 253, 253);
+}
+.para-box{
+    width: 60%;
+    height: 30%;
+    margin:25px; 
+    padding: 10px;
+    border: 5px;
+    background-color:rgb(39, 151, 235);
+    border-image: linear-gradient(rgb(228, 240, 60), rgb(240, 84, 12));
+    border-image-slice: 1;
+    border-bottom-right-radius: 30px;
+    box-shadow: 10px 10px 30px black;
+    border-left: 10px solid;
+
+}
+
+.image-2{
+    width:150px;
+}
+.Experiences{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%; 
+    padding-left: 10px;
+    border: 5px;
+    box-shadow: 10px 10px 30px black;
+    border-left: 10px solid;
+}
+
+#web-dev-expereience{
+    border-left: 8px solid;
+    border-image: linear-gradient(rgb(228, 240, 60), rgb(240, 84, 12));
+    border-image-slice: 1;
+    border-bottom-right-radius: 30px;
+    
+
+
+
+}
+
+#full-stack{
+    border-bottom-right-radius: 30px;
+    
+    border-image: linear-gradient(rgb(60, 219, 240), rgb(12, 240, 23));
+    
+    border-image-slice: 1;
+      
+
+}
+
+
+
+
+footer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
